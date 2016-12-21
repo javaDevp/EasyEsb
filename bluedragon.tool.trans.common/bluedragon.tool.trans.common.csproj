@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EncryptUtil.cs" />
     <Compile Include="IMessageShow.cs" />
     <Compile Include="MessageBoxShow.cs" />
     <Compile Include="RegularUtil.cs" />
